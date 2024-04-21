@@ -250,7 +250,7 @@ Simply heat up one contact, insert one end of the wire, and hold for a second. T
 </details>
 
 ### Adding custom art
-Please see [Cutting a Circle for Arcade Buttons](/addendum_cutting_arcade_stick_art/readme.md).
+Please see [Cutting a Circle for Arcade Buttons](/cutting_arcade_stick_art/readme.md).
 
 ![Artwork cut out](/readme_assets/gundam-art-cut.jpeg)
 
