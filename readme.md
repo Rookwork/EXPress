@@ -28,7 +28,7 @@ We will need to order a few off the shelf parts:
 - MCU: [Waveshare RP2040-Zero](RP2040-Zero) | [Amazon link](https://www.amazon.com/RP2040-Zero-High-Performance-Microcontroller-Castellated-Applications/dp/B09KZPCNPL)
 - OLED Screen: [SSD1306 128x64px OLED Display](https://hosyond.com/#:~:text=0.96%20inch%20IIC%20OLED%20Module) | [Amazon link](https://www.amazon.com/gp/product/B09T6SJBV5/) | Note that there are lots of similar displays, but I can't guarantee they will fit. Many of these displays have similar measurements, but the tolerances are tight for this part, so I would try to get this exact screen if possible just to be on the safe side.
 - 12 Choc v1 switches (whichever kind you want). I suggest a linear switch like Choc Reds, or an even lighter option like Pro Reds or Purpz. 
-- 4 MX switches (whichever kind you want, but a 5-pin, PCB mount switch will be slightly more secure). Don't be afraid to try a fun switch you might not otherwise use — You don't hit these keys that often. I used Kailh Bronze switches, for example. 
+- 4 MX switches (whichever kind you want, but a 5-pin, PCB mount switch will be slightly more secure). Don't be afraid to try a fun switch you might not otherwise use — You don't hit these keys that often. I used Kailh Box White switches, for example. 
 - 12 Choc v1 circular keycaps. I used ones from Junkfood Arcades, but you can also 3D print some, like those from [jfedor](https://github.com/jfedor2/flatbox/tree/master/3d-printed-buttoncaps) whose Flatbox design was a great inspiration to me. 
 - 4 MX keycaps (whichever kind you want)
 - 4 M5 12mm long Chicago screws | [Amazon link](https://www.amazon.com/gp/product/B09TT3TNPP) (set of several lengths)
