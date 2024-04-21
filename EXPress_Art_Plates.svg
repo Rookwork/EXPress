@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 573 840" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1849.41,-4.64091)">
+        <g id="v3" transform="matrix(2.00071,0,0,1,598.048,4.64091)">
+            <rect x="625.461" y="0" width="286.197" height="839.055" style="fill:none;"/>
+            <g id="Bottom-Plate" serif:id="Bottom Plate" transform="matrix(0.499822,0,0,1,627.272,420.733)">
+                <g id="Mounting-Holes" serif:id="Mounting Holes" transform="matrix(-1,0,0,1,564.911,0)">
+                    <g transform="matrix(0.799509,0,0,0.799509,-273.707,-242.559)">
+                        <circle cx="705.846" cy="325.816" r="9.396" style="fill:none;stroke:black;stroke-width:1.25px;"/>
+                    </g>
+                    <g transform="matrix(0.799509,0,0,0.799509,-273.621,134.239)">
+                        <circle cx="705.846" cy="325.816" r="9.396" style="fill:none;stroke:black;stroke-width:1.25px;"/>
+                    </g>
+                    <g transform="matrix(1.06552,0,0,1.06552,-451.569,-306.848)">
+                        <circle cx="938.452" cy="468.966" r="7.05" style="fill:none;stroke:black;stroke-width:0.94px;"/>
+                    </g>
+                    <g transform="matrix(1.06552,0,0,1.06552,-527.25,-302.245)">
+                        <circle cx="510.411" cy="484.643" r="7.05" style="fill:none;stroke:black;stroke-width:0.94px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(-12.2185,0,0,12.8579,29542.5,-5010.78)">
+                    <path d="M2417.81,390.432L2417.81,421.076C2417.81,421.441 2417.5,421.737 2417.12,421.737L2372.34,421.737C2371.96,421.737 2371.64,421.441 2371.64,421.076L2371.64,390.432C2371.64,390.067 2371.96,389.771 2372.34,389.771L2417.12,389.771C2417.5,389.771 2417.81,390.067 2417.81,390.432Z" style="fill:none;stroke:black;stroke-width:0.04px;"/>
+                </g>
+            </g>
+            <g id="Top-Plate" serif:id="Top Plate" transform="matrix(0.499822,0,0,1,627.382,2.85372)">
+                <g id="Choc-cutouts" serif:id="Choc cutouts">
+                    <g transform="matrix(1.25951,0,0,1.25951,-117.549,-342.899)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-272.723,-440.512)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-192.161,-440.045)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-110.563,-431.812)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-355.648,-324.881)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.52467,0,0,1.52467,-518.153,-347.589)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.66px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-280.002,-358.561)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-199.222,-358.354)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-428.075,-375.439)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-349.424,-409.471)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-501.692,-410.819)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                    <g transform="matrix(1.25951,0,0,1.25951,-582.292,-410.885)">
+                        <circle cx="499.609" cy="458.62" r="26.726" style="fill:none;stroke:black;stroke-width:0.79px;"/>
+                    </g>
+                </g>
+                <g id="Case-screws" serif:id="Case screws">
+                    <g transform="matrix(0.799509,0,0,0.799509,-273.707,-242.559)">
+                        <circle cx="705.846" cy="325.816" r="9.396" style="fill:none;stroke:black;stroke-width:1.25px;"/>
+                    </g>
+                    <g transform="matrix(0.799509,0,0,0.799509,-273.621,134.239)">
+                        <circle cx="705.846" cy="325.816" r="9.396" style="fill:none;stroke:black;stroke-width:1.25px;"/>
+                    </g>
+                    <g transform="matrix(1.06552,0,0,1.06552,-451.569,-306.848)">
+                        <circle cx="938.452" cy="468.966" r="7.05" style="fill:none;stroke:black;stroke-width:0.94px;"/>
+                    </g>
+                    <g transform="matrix(1.06552,0,0,1.06552,-527.25,-302.245)">
+                        <circle cx="510.411" cy="484.643" r="7.05" style="fill:none;stroke:black;stroke-width:0.94px;"/>
+                    </g>
+                </g>
+                <g id="MX-Cutout" serif:id="MX Cutout" transform="matrix(0.884376,0,0,0.873021,-386.056,-249.592)">
+                    <rect x="457.765" y="304.889" width="252.184" height="65.211" style="fill:none;stroke:black;stroke-width:1.14px;"/>
+                </g>
+                <g id="Outline" transform="matrix(12.2185,0,0,12.8579,-28977.6,-5010.78)">
+                    <path d="M2417.81,396.819L2417.81,421.076C2417.81,421.441 2417.5,421.737 2417.12,421.737L2372.34,421.737C2371.96,421.737 2371.64,421.441 2371.64,421.076L2371.64,390.432C2371.64,390.067 2371.96,389.771 2372.34,389.771L2410.3,389.771" style="fill:none;stroke:black;stroke-width:0.04px;"/>
+                </g>
+                <g id="Screen-cutout" serif:id="Screen cutout" transform="matrix(1.00837,0,0,1.54605,-1872.49,-66.0892)">
+                    <path d="M2416.69,101.917L2334.17,101.917C2329.67,101.811 2325.87,99.353 2325.72,96.41L2325.72,43.309" style="fill:none;stroke:black;stroke-width:0.38px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
