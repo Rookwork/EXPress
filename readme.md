@@ -39,8 +39,8 @@ We will need to order a few off the shelf parts:
 - 4 MX switches (whichever kind you want, but a 5-pin, PCB mount switch will be slightly more secure). Don't be afraid to try a fun switch you might not otherwise use — You don't hit these keys that often. I used Kailh Box White switches, for example. 
 - 12 Choc v1 circular keycaps. I used ones from Junkfood Arcades, but you can also 3D print some, like those from [jfedor](https://github.com/jfedor2/flatbox/tree/master/3d-printed-buttoncaps) whose Flatbox design was a great inspiration to me. 
 - 4 MX keycaps (whichever kind you want)
-- 4 M5 12mm long Chicago screws | [Amazon link](https://www.amazon.com/gp/product/B09TT3TNPP) (set of several lengths)
-- 10 M2 screws, 6-8mm long, and nuts | [Amazon link](https://www.amazon.com/gp/product/B0BD2CXW7D) (set of several lengths)
+- 4 M5 15mm long Chicago screws | [Amazon link](https://www.amazon.com/gp/product/B09TT3TNPP) (set of several lengths)
+- 10-16 M2 screws, 6-8mm long, and nuts | [Amazon link](https://www.amazon.com/gp/product/B0BD2CXW7D) (set of several lengths)
 
 We will also need to get the following parts made:
 - Three PCBs: the main body Choc switches mount, the MCU (microcontroller) mount, and the MX switches mount. These are three separate PCBs due to the different heights of these various parts. 
