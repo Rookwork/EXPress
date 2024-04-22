@@ -22,6 +22,14 @@ I suggest reading through the entire guide at least once before deciding to orde
 
 To assemble an EXPress, first we will need to order some parts. I will show the process using the exact vendors and process that I used, but there are many alternatives if you would like to shop around. The total cost of an EXPress should be around $150, give or take depending on how you get the parts made. 
 
+Throughout this guide you will see expandable sections like this: 
+<details>
+<summary>"Click me to read more"</summary>
+More information!
+</details>
+
+This guide is long, so various steps are hidden for readability. If you would like more detailed explanations of each step, just click the arrow to expand it and there will be more text and pictures.
+
 ### Ordering parts
 
 We will need to order a few off the shelf parts:
