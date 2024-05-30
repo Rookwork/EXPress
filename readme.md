@@ -278,3 +278,6 @@ With everything working, all that's left to do is remove the paper from the acry
 ![Two assembled EXPress controllers](/readme_assets/assembled.jpeg)
 
 Enjoy your EXPress! 
+
+If you found this guide helpful, tips are always appreciated but never required.
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rookwork" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
