@@ -279,6 +279,8 @@ With everything working, all that's left to do is remove the paper from the acry
 
 Enjoy your EXPress! 
 
+---
+
 If you found this guide helpful, tips are always appreciated but never required.
 
 <a href="https://www.buymeacoffee.com/rookwork" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
